@@ -1,1 +1,1 @@
-# Arabic-HangMan
+classic letter guessing game called Hangman
